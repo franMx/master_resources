@@ -5,3 +5,5 @@
 - The Data Model Resource Book, Vol. 2: A Library of Data Models for Specific Industries Revised Edition
 - The Data Model Resource Book, Vol. 3: Universal Patterns for Data Modeling 1st Edition 
 
+## Engineering
+- Software Engineering: A Practitioner's Approach (8th edition)
